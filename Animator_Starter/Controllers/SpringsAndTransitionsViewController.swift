@@ -21,6 +21,7 @@ class SpringsAndTransitionsViewController: UIViewController {
     let phoneTextfield = UITextField()
     let swappedFooterLabel = UILabel()
     
+    
     // MARK: Appearance
     override var preferredStatusBarStyle: UIStatusBarStyle {
         return .lightContent
